@@ -13,6 +13,7 @@ export DESKTOP=/usr/share/applications/eu.qtrac.diffpdf.desktop
 export STARTUPWMCLASS=DiffPDF
 export DEPLOY_QT=1
 export QT_DIR=qt5
+export ALWAYS_SOFTWARE=1
 
 # on archlinux qt5-wayland also adds the server side plugins
 # remove them so that they do not get deployed
