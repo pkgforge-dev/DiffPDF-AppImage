@@ -21,8 +21,6 @@ rm -rf /usr/lib/qt/plugins/wayland-graphics-integration-server
 # Deploy dependencies
 quick-sharun /usr/bin/diffpdf
 
-# Additional changes can be done in between here
-
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
 
